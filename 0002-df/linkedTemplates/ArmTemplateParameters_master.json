@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "0002-df"
 		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
+		},
 		"containerUri": {
 			"value": ""
 		},
